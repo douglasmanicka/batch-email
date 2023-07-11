@@ -1,4 +1,4 @@
-##Batch Email
+## Batch Email
 
 The purpose of this service for sending emails in batches is to make it easier for the client system not to waste time sending email after email.
 
